@@ -42,5 +42,6 @@ A Full Screen Application.
 
 There is no changes only exploring
 In this also only exploring no changes.
+No changes only theory.
 
 
